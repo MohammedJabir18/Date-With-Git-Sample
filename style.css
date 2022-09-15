@@ -2,9 +2,33 @@ body
 {
     background: linear-gradient(90deg,rgb(0, 0, 50) 29%, rgb(8, 175, 175)100%);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-weight: bolder;
+    font-weight: bolder;;
 }
 h1
 {
     color: rgb(11, 233, 207);
+}
+h2
+{
+    color: chocolate;
+}
+.Sentry
+{
+    color: rgb(30, 255, 0);
+    font-size: xx-large;
+    padding: 0px;
+}
+.Adam
+{
+    color: red;
+    font-size: xx-large;
+    padding-bottom: 0px;
+}
+.Youtube
+{
+    float: left;
+}
+div
+{
+    float: left;
 }
